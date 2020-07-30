@@ -24,7 +24,7 @@ class Supermercado:
         return self.__nombre
     
     def get_direccion(self):
-        return self.__direccion
+        return "Adios"
     
     def set_lista_productos(self, producto):
         self.__lista_productos.append(producto)
